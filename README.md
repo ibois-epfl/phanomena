@@ -5,6 +5,8 @@ We refer to the following folder on the server: **\\enac1files.epfl.ch\IBOIS\187
 Please document uploaded files with a small **comment** and an **image** in the ReadMe below. \
 The GitHub repository is necessary for code to avoid the clutter on the server which should normally be used only for drawings, large rhino files and documents.
 
+:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
+
 # How-to GitHub:
 
 Work locally with your code in your computer, then send and retrieve files in this repository. \
