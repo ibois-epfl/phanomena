@@ -35,15 +35,15 @@ git pull
 ## grid
 
 2023_02_29 - Addition by Petras Vestartas: \
-Restaurant and biolab grid is stored in the following file: **phanomena_grid.ghx** \
+Restaurant and biolab grid is stored in the following file: **phanomena_grid.ghx** 
 
-These two buildings are generated from two boundary curves. There are 4 input curves because they refer to the ground and the roof. \
-* First columns are created by division and interpolation of the side curves. \
-* Second beams are added. \
-* Thrid diagonals are added based on the user give points. Be aware that diagonals can be create in two directions.  \
+These two buildings are generated from two boundary curves. There are 4 input curves because they refer to the ground and the roof. 
+* First columns are created by division and interpolation of the side curves. 
+* Second beams are added. 
+* Thrid diagonals are added based on the user give points. Be aware that diagonals can be create in two directions.  
 * Fourth, closed rectangles are created that represents roof and floor grid. 
 
-For baking the geometry and generating the excel file for the structure use **phanomena_grid_excel.ghx** \
+For baking the geometry and generating the excel file for the structure use **phanomena_grid_excel.ghx** 
 * The excel example is needed to measure the lengths of the beams, count them, specifiy units e.g. meters, and bake all the geometry to the appropriate layer in Rhino.
 
 ![image](https://user-images.githubusercontent.com/18013985/217834006-3ca7e29f-1b51-4a6c-9bda-c7b39739c64d.png)
