@@ -25,9 +25,9 @@ git push
 commit PREFIX rules for "git commit -m "PREFIX message name":
 ``` bash
 "ADD detailed explanation what has been done" - new feature, e.g. added new file or folder
-"FIX detailed explanation what has been done " - bug fix, e.g. grasshopper file change
-"DOC detailed explanation what has been done " - documentation, e.g. you changed the readme file
-"MISC detailed explanation what has been done " - unknown
+"FIX detailed explanation what has been done" - bug fix, e.g. grasshopper file change
+"DOC detailed explanation what has been done" - documentation, e.g. you changed the readme file
+"MISC detailed explanation what has been done" - unknown
 ```
 
 ### Get files:
