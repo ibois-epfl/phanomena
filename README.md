@@ -1,11 +1,18 @@
 # Phanomena
 
+#### github helper:
+
+to send the files:
 ``` bash
 git add --all
 git commit -m "ADD message name"
 git push
 ```
 
+to get the files:
+``` bash
+git pull
+```
 
 ## grid
 
