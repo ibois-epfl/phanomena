@@ -2,7 +2,7 @@
 
 This is the repository for storing Phanomena project files related to coding e.g. **Grasshopper (.ghx), Python, C# files**. \
 We refer to the following folder on the server: **\\enac1files.epfl.ch\IBOIS\187_Phänomena** . \
-Please document each uploaded files with a small **comment** and an **image** in the ReadMe below. \
+Please document uploaded files with a small **comment** and an **image** in the ReadMe below. \
 The GitHub repository is necessary for code to avoid the clutter on the server which should normally be used only for drawings, large rhino files and documents.
 
 # How-to GitHub:
