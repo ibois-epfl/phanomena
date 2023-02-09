@@ -1,10 +1,10 @@
 # Phanomena
 
-´´´
+``` bash
 git add --all
 git commit -m "ADD message name"
 git push
-´´´
+```
 
 
 ## grid
