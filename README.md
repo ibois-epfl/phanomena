@@ -11,10 +11,10 @@ git push
 
 commit PREFIX rules in this line "git commit -m "PREFIX message name"", so that other person understand what kind of change is made to the previous file:
 ``` bash
-"ADD " - new feature, e.g. added new file or folder
-"FIX " - bug fix, e.g. code change in the grasshopper gile
-"DOC " - documentation, e.g. you changed the readme file
-"MISC " - unknown
+"ADD detailed explanation what has been done" - new feature, e.g. added new file or folder
+"FIX detailed explanation what has been done " - bug fix, e.g. code change in the grasshopper gile
+"DOC detailed explanation what has been done " - documentation, e.g. you changed the readme file
+"MISC detailed explanation what has been done " - unknown
 ```
 
 to get the files:
