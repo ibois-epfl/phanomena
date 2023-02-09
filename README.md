@@ -38,7 +38,7 @@ git pull
 Restaurant and biolab grid is stored in the following file: **phanomena_grid.ghx** \
 For baking the geometry and generating the excel file for the structure use **phanomena_grid_excel.ghx** \
 These two buildings are generated from two boundary curves. There are 4 input curves because they refer to the ground and the roof. \
-First columns are create by division and interpolation of the side curves. \
+First columns are created by division and interpolation of the side curves. \
 Second beams are added. \
 Thrid diagonals are added based on the user give points. Be aware that diagonals can be create in two directions.  \
 Fourth, closed rectangles are created that represents roof and floor grid. \
