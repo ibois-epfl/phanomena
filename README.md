@@ -8,7 +8,7 @@ The GitHub repository is necessary for code to avoid the clutter on the server w
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:
 
-# How-to GitHub:
+# HOW-TO GITHUB:
 
 Work locally with your code in your computer, then send and retrieve files in this repository. \
 Following commands will help you to get started:
@@ -37,7 +37,7 @@ git pull
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:
 
 
-# Folder Structure
+# FOLDER STRUCTURE
 
 ## Grid
 
