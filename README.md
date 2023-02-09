@@ -8,7 +8,7 @@ The GitHub repository is necessary for code to avoid the clutter on the server w
 # How-to Git-Hub:
 
 Work locally with your code in your computer, then send and retrieve files in this repository. \
-Following commands will help you to get started: \
+Following commands will help you to get started:
 
 to send the files:
 ``` bash
