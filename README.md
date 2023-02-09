@@ -1,4 +1,4 @@
-# Phanomena
+# THE PHANOMENA
 
 This is the repository for storing Phanomena project files related to coding e.g. **Grasshopper (.ghx), Python, C# files**. \
 We refer to the following folder on the server: **\\enac1files.epfl.ch\IBOIS\187_Phänomena** . \
