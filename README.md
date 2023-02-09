@@ -30,9 +30,9 @@ to get the files:
 git pull
 ```
 
-# Folder Structure of  ibois-epfl / phanomena 
+# Folder Structur
 
-## Grid Folder
+## Grid
 
 2023_02_29 - Addition by Petras Vestartas: \
 Restaurant and biolab grid is stored in the following file: **phanomena_grid.ghx** 
