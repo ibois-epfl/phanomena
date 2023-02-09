@@ -1,6 +1,6 @@
 # Phanomena
 
-#### github helper:
+#### github usage helper:
 
 to send the files:
 ``` bash
