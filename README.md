@@ -8,9 +8,6 @@ Please document uploaded files with a small **comment** and an **image** in the 
 The GitHub repository is necessary for code to avoid the clutter on the server which should normally be used only for drawings, large rhino files and documents. Work locally with your code in your computer, then send and retrieve files in this repository. \
 HOW-TO GITHUB section will help you to use this repository.
 
-:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
-:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:
-
 # HOW-TO GITHUB
 
 
@@ -34,10 +31,6 @@ commit PREFIX rules for "git commit -m "PREFIX message name":
 ``` bash
 git pull
 ```
-
-:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
-:large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:
-
 
 # FOLDER STRUCTURE
 
