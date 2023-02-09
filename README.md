@@ -1,5 +1,7 @@
 # THE PHANOMENA
 
+### Description
+
 This is the repository for storing Phanomena project files related to coding e.g. **Grasshopper (.ghx), Python, C# files**. \
 We refer to the following folder on the server: **\\enac1files.epfl.ch\IBOIS\187_Phänomena** . \
 Please document uploaded files with a small **comment** and an **image** in the ReadMe below. \
@@ -13,7 +15,7 @@ The GitHub repository is necessary for code to avoid the clutter on the server w
 Work locally with your code in your computer, then send and retrieve files in this repository. \
 Following commands will help you to get started:
 
-to send the files:
+### to send the files:
 ``` bash
 git add --all
 git commit -m "PREFIX message name"
@@ -28,7 +30,7 @@ commit PREFIX rules for "git commit -m "PREFIX message name":
 "MISC detailed explanation what has been done " - unknown
 ```
 
-to get the files:
+### to get the files:
 ``` bash
 git pull
 ```
