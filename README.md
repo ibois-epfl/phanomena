@@ -1,6 +1,6 @@
 # Phanomena
 
-## Grid
+## grid
 
 Restaurant and biolab grid is stored in the following file: "phanomena_grid.ghx" \
 For baking the geometry and generating the excel file for the structure use "phanomena_grid_excel.ghx"
