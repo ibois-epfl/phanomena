@@ -1,5 +1,12 @@
 # Phanomena
 
+´´´
+git add --all
+git commit -m "ADD message name"
+git push
+´´´
+
+
 ## grid
 
 Restaurant and biolab grid is stored in the following file: "phanomena_grid.ghx" \
