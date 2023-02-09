@@ -1,5 +1,9 @@
 # Phanomena
 
+This is the repository for storing Phanomena project files related to coding e.g. Grasshopper (.ghx), Python, C# files.
+Document each uploaded files with a small comment and an image in the readme below.
+The GitHub repository is necessary for code to avoid the clutter on the server, that should normally be used only for drawings and large rhino files.
+
 #### github usage helper:
 
 to send the files:
