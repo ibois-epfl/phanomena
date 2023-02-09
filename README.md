@@ -10,12 +10,12 @@ The GitHub repository is necessary for code to avoid the clutter on the server w
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: 
 :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle: :large_blue_circle:
 
-# HOW-TO GITHUB:
+# HOW-TO GITHUB
 
 Work locally with your code in your computer, then send and retrieve files in this repository. \
 Following commands will help you to get started:
 
-### Send files:
+### Send files
 ``` bash
 git add --all
 git commit -m "PREFIX message name"
@@ -30,7 +30,7 @@ commit PREFIX rules for "git commit -m "PREFIX message name":
 "MISC detailed explanation what has been done" - unknown
 ```
 
-### Get files:
+### Get files
 ``` bash
 git pull
 ```
