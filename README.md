@@ -49,3 +49,32 @@ For baking the geometry and generating the Excel file use **phanomena_grid_excel
 
 ![image](https://user-images.githubusercontent.com/18013985/217834006-3ca7e29f-1b51-4a6c-9bda-c7b39739c64d.png)
 
+### Main Building Detailed Grid
+
+#### Axes of the Structure
+
+- [ ] columns, with a movement along one short axis, columns must be divided into two floors
+- [ ] short round beams in u-direction (light green)
+- [ ] long round beams in v-direction (dark green)
+- [ ] slab system: joints and panels
+- [ ] handrails
+
+#### Connections of the Structure
+
+- [ ] Connections - cross connections
+- [ ] Connections - T-connections (side-to-top)
+- [ ] Connections - slab and beams
+
+#### Ramp
+
+- [ ] Beams
+- [ ] Slabs
+- [ ] Handrails
+
+#### Stairs
+
+- [ ] Beams
+- [ ] Slabs
+- [ ] Handrails
+
+
