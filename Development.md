@@ -8,6 +8,7 @@
 - [ ] long round beams in v-direction (dark green)
 - [ ] slab system: joints and panels
 - [ ] handrails
+- [ ] diagonals
 
 #### Connections of the Structure
 
