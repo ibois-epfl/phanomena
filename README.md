@@ -53,5 +53,5 @@ For baking the geometry and generating the Excel file use **phanomena_grid_excel
 Grid of the main building
 
 ![image](https://user-images.githubusercontent.com/18013985/223903301-cc9335be-8576-420b-a487-0de03d7ad1bb.png)
-![image](https://user-images.githubusercontent.com/18013985/223903493-1b255a5f-fefd-48ad-8e33-71e079bb316e.png)
+![image](https://user-images.githubusercontent.com/18013985/223903690-352a568a-a25b-40a5-aac2-d158f2eaf3b5.png)
 
