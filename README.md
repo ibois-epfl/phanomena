@@ -50,7 +50,7 @@ For baking the geometry and generating the Excel file use **phanomena_grid_excel
 ![image](https://user-images.githubusercontent.com/18013985/217834006-3ca7e29f-1b51-4a6c-9bda-c7b39739c64d.png)
 
 2023_03_09 - Addition by Petras Vestartas: \
-Grid of the main building
+Grid of the main building - main_building_grid_with_pipes.gh
 
 ![image](https://user-images.githubusercontent.com/18013985/223903301-cc9335be-8576-420b-a487-0de03d7ad1bb.png)
 ![image](https://user-images.githubusercontent.com/18013985/223903690-352a568a-a25b-40a5-aac2-d158f2eaf3b5.png)
