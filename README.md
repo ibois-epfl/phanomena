@@ -48,3 +48,10 @@ For baking the geometry and generating the Excel file use **phanomena_grid_excel
 * The excel example is needed to measure the lengths of the beams, count them, specifiy units e.g. meters, and bake all the geometry to the appropriate layer in Rhino.
 
 ![image](https://user-images.githubusercontent.com/18013985/217834006-3ca7e29f-1b51-4a6c-9bda-c7b39739c64d.png)
+
+2023_03_09 - Addition by Petras Vestartas: \
+Grid of the main building
+
+![image](https://user-images.githubusercontent.com/18013985/223903301-cc9335be-8576-420b-a487-0de03d7ad1bb.png)
+![image](https://user-images.githubusercontent.com/18013985/223903493-1b255a5f-fefd-48ad-8e33-71e079bb316e.png)
+
