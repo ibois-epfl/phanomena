@@ -9,6 +9,7 @@ Wireframe:
 -the other elements of the wireframe are just piped
 
 ###Beams
+
 Lines between the edges of the secundary beams are created and divided in equal number of segments (length of segments can vary from place to place)
 the points created are linked to the points opposite to them, creating a line 
 This lins is extruded, which creates a surface from which the normal can be calculated. 
