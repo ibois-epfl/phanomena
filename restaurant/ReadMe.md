@@ -5,19 +5,19 @@ Wireframe:
 
 ##principle for the grasshopper file:
 
--from the secondary beams (pairs of 5m long beams) both the beams and the slabs are generated.
+-from the secondary round beams (pairs of 5m long beams) both the squared beams and the slabs are generated.
 -the other elements of the wireframe are just piped
 
 ![Capture d'écran 2023-03-13 123756](https://user-images.githubusercontent.com/127743632/224692658-986eb1f1-d0fa-49c2-9bd2-6b94a43181a1.png)
 
 
 
-###Beams
+###Squared beams
 
-Lines between the edges of the secundary beams are created and divided in equal number of segments (length of segments can vary from place to place)
+Lines between the edges of the secundary round beams are created and divided in equal number of segments (length of segments can vary from place to place)
 the points created are linked to the points opposite to them, creating a line 
 This lins is extruded, which creates a surface from which the normal can be calculated. 
-The surface in then extruded along its normal, creating the beam. 
+The surface in then extruded along its normal, creating the squared beam. 
 
 Along the process the beams are positionned at the right place, this place depending on the diameters of the beams. This is done manually but could be parametrized.
 
