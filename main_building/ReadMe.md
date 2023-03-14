@@ -1,7 +1,8 @@
 # Main Building
 
 ## ChangeLog 2023_03_13
-- [x] diagonals columns are goin from face-topology_edge logic
+- [x] code for the grid that contains the detailed structure
+- [x] diagonals columns are going from face-topology_edge logic
 
 
 ![image](https://user-images.githubusercontent.com/18013985/224831474-95a6e88a-abd6-4ef9-a732-2956e1d8a620.png)
