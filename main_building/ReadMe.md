@@ -9,6 +9,8 @@
 - [ ] divide slabs type B : divide grid the cuts into 3 parts
 - [x] update of stairs and ramp
 
+![ViewCapture20230314_170402](https://user-images.githubusercontent.com/124897370/225067136-b326236c-e243-47c9-8796-8dfe5534fab5.jpg)
+
 ![image](https://user-images.githubusercontent.com/18013985/225085844-d8c878ef-324e-4017-ab50-995586428bc1.png)
 
 ## ChangeLog 2023_03_14
@@ -25,5 +27,3 @@ Slab1:
 Slab2:
 ![image](https://user-images.githubusercontent.com/18013985/224830755-67d0a3cc-8073-479b-9b66-430c211b9cf0.png)
 
-RAMP STAIRS FILE
-![ViewCapture20230314_170402](https://user-images.githubusercontent.com/124897370/225067136-b326236c-e243-47c9-8796-8dfe5534fab5.jpg)
