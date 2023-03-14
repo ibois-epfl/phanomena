@@ -7,6 +7,9 @@
 - [ ] extend boundary slabs
 - [ ] divide slabs type A : within the grid box, collect dark green lines that are used for subdivision, skip the boundary cases
 - [ ] divide slabs type B : divide grid the cuts into 3 parts
+- [x] update of stairs and ramp
+
+![image](https://user-images.githubusercontent.com/18013985/225085844-d8c878ef-324e-4017-ab50-995586428bc1.png)
 
 ## ChangeLog 2023_03_14
 - [ ] clean-up
